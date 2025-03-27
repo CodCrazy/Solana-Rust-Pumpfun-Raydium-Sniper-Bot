@@ -1,4 +1,4 @@
-# Solana Ultra-Fast New Token Sniper on Raydium and Pump.fun in Rust 🚀
+# Solana Fast New Token Sniper on Raydium and Pump.fun in Rust 🚀
 
 ## Overview
 
